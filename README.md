@@ -1,5 +1,10 @@
 # Deploying your web application with ArgoCD
-In this Project, we will deploy a web page which is in a docker image. That we have done in my previews project Go here
+In this Project, we will deploy a web page using ArgoCD applicaton.
+
+Befor we start Let me tell you about my previews Project that will help you to understent this project more deeply
+- [Dockerized Your Application.](https://github.com/souravsk/Deploy-WebApp-With-Docker)
+- [Create Yaml file and Deploy Dirtely to Kubernetes.](https://github.com/souravsk/deploy-web-app-in-kubernetes)
+
 
 To that, we need to create a deployment and Service YAML file which will be used in the deployment of the web app in the Kubernetes
 
