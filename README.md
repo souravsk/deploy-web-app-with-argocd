@@ -11,7 +11,6 @@ To that, we need to create a deployment and Service YAML file which will be used
 ### Step 1
 - First, we need to have the ArgoCD application Deployed in the Kubernetes cluster. 
 - You can use minikube or any Kubernetes cluster to install the ArgoCD application in the cluster. To do that go Here
-- 
 ### Step 2
 Now Your ArgoCD is set up so let's deploy our web application.
 > Make sure you have logged in to the argocd application in the GUI because we are going to use the GUI to deploy it.
